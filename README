@@ -1,4 +1,4 @@
-LPT-Switch para GNU/Linux (Criado por Vitor Baptista).
+LPT-Switch para linux.
 
 1. Introdução
    O LPT-Switch é um esquema de conexão de botões de arcade com a porta paralela. Pode gerenciar até 60 entradas, sem nenhum ghosting ou blocking.
